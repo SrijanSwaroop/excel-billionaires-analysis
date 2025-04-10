@@ -43,8 +43,7 @@ The goal of this project was to take a raw dataset of billionaires and turn it i
 
 ## 📁 Dataset
 
-📌 Here is the [**raw dataset**](./your-dataset-file.xlsx) used in this project.  
-*(Replace the link once you've uploaded the file.)*
+📌 Here is the [**raw dataset**](https://github.com/SrijanSwaroop/excel-billionaires-analysis/blob/main/Billionaires%20excel%20project.xlsx) used in this project.  
 
 ---
 
@@ -59,7 +58,7 @@ The goal of this project was to take a raw dataset of billionaires and turn it i
 
 ## 📸 Preview
 
-> *(Optional: Add a screenshot of your dashboard here)*
+
 
 ---
 
