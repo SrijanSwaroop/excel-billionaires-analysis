@@ -58,7 +58,7 @@ The goal of this project was to take a raw dataset of billionaires and turn it i
 
 ## 📸 Preview
 
-
+Here is the Snapshot of the [**Dashboard**](https://github.com/SrijanSwaroop/excel-billionaires-analysis/blob/main/Excel%20Dashboard.png)
 
 ---
 
